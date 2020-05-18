@@ -1,0 +1,18 @@
+https://foursquare.com/oauth2/authenticate
+    ?client_id=UI5DNWNS4Q4BBC3CYQ11O0CFRH1QTOMK3FGSWOE2GGBCJPIK
+    &response_type=code
+    &redirect_uri=https://www.google.com
+
+
+KOUFDJHRMKXGXTPOKCEG5U3WG4OWYOULUEY1WWFLPKGKULO2#_=_
+
+https://foursquare.com/oauth2/access_token?client_id=UI5DNWNS4Q4BBC3CYQ11O0CFRH1QTOMK3FGSWOE2GGBCJPIK&client_secret=YWDGDINOKIPPTTQAS2ERVYJEE1CB2LU4BL551HUA3QKQ1M5E&grant_type=authorization_c
+
+https://foursquare.com/oauth2/access_token
+    ?client_id=UI5DNWNS4Q4BBC3CYQ11O0CFRH1QTOMK3FGSWOE2GGBCJPIK
+    &client_secret=YWDGDINOKIPPTTQAS2ERVYJEE1CB2LU4BL551HUA3QKQ1M5E
+    &grant_type=authorization_code
+    &redirect_uri=https://www.google.com
+    &code=KOUFDJHRMKXGXTPOKCEG5U3WG4OWYOULUEY1WWFLPKGKULO2#_=_
+
+ode&redirect_uri=http://www.google.com&code=51G5QKPHLNKUD33K2UCXBCBURIAETT3ZJYVUL3RYE4EV4H1Y#_=_
